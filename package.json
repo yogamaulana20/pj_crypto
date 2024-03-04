@@ -1,0 +1,23 @@
+{
+  "name": "pj_crypto",
+  "version": "1.0.0",
+  "description": "new cot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yogamaulana20/pj_crypto.git"
+  },
+  "dependencies": {
+    "teachay": "1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yogamaulana20/pj_crypto/issues"
+  },
+  "homepage": "https://github.com/yogamaulana20/pj_crypto#readme"
+}
